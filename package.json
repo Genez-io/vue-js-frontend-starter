@@ -10,12 +10,12 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
-    "@genezio/vite-plugin-genezio": "^1.0.4",
     "vue": "^3.3.11"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.5.2",
-    "vite": "^5.0.8"
+    "@genezio/vite-plugin-genezio": "^1.0.5",
+    "vite": "^5.2.9"
   },
   "prettier": {
     "tabWidth": 2
